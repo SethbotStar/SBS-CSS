@@ -1,0 +1,15 @@
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+/* Main Channel Icons */
+.icon-1DeIlz, .modeSelected-346R90 .icon-1DeIlz, .modeSelected-346R90:hover .icon-1DeIlz, .modeUnread-1qO3K1 .icon-1DeIlz, .modeUnread-1qO3K1:hover .icon-1DeIlz, .icon-22AiRD {
+    color:rgb(var(--iconcolor1))
+}
+/* Thread and Muted Channel Icons */
+.modeMuted-onO3r- .icon-1DeIlz, .spine--Wla_O {
+    color:rgb(var(--iconcolor2))
+}
+.icon-18rqoe {
+	color:rgb(--iconcolor1)
+
+.modeMuted-2T4MDZ .icon-2W8DHg, .modeMuted-2T4MDZ .name-28HaxV {
+    color: var(--interactive-muted);
+}
